@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>441249110667-aea92n6bod0ealb88m9mfoamklb678ea.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.441249110667-aea92n6bod0ealb88m9mfoamklb678ea</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMtXHLbs64PJduWntxNjvsAgTk-ljjx3U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>441249110667</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>pe.com.peruapps.Pokedex-App</string>
+	<key>PROJECT_ID</key>
+	<string>pokedex-app-40937</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pokedex-app-40937.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:441249110667:ios:ad538ca7ca70a29b4fd28e</string>
+</dict>
+</plist>
